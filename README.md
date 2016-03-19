@@ -1,4 +1,4 @@
-arm-scons-project-template
+vagrant-openocd-stlink
 ===
 
 The project offers a project template for developing software running on STM32F4*, which includes:
