@@ -56,3 +56,7 @@ Then you'll see the following output:
 
 * [ARM-toolchain-vagrant](https://github.com/adafruit/ARM-toolchain-vagrant)
 * [#5774 Prevent duplicate VirtualBox usbfilters from being added](https://github.com/mitchellh/vagrant/issues/5774)
+
+# Revision History
+* 1.0.0
+  - Initial Release
