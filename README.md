@@ -1,9 +1,9 @@
 arm-scons-project-template
 ===
 
-The project offers a project template for developing software running with FreeRTOS on STM32F4*, which includes:
+The project offers a project template for developing software running on STM32F4*, which includes:
 
-1. ARM toolchain with Vagrant (Modifying [ARM-toolchain-vagrant](https://github.com/adafruit/ARM-toolchain-vagrant)
+1. ARM toolchain with Vagrant (Modifying [ARM-toolchain-vagrant](https://github.com/adafruit/ARM-toolchain-vagrant))
 
 ## Vagrant
 
